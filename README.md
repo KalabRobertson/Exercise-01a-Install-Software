@@ -38,5 +38,4 @@ KalabRobertson
 @KalabRobertson
 
 ## I have installed the software on my computer as a part of the exercise
-Note: Did you want us to install Visual Studio Code? I installed it just in case, but the link wasn't posted here so I didn't know.
 ```
