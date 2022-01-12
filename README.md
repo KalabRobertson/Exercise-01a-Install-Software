@@ -35,7 +35,7 @@ Kalab Robertson
 KalabRobertson
 
 ## My replit username is:
-BL-MSCH-C220-S22
+@KalabRobertson
 
 ## I have installed the software on my computer as a part of the exercise
 ```
